@@ -1,5 +1,5 @@
-# document:
-## see also: https://docs.brew.sh/Formula-Cookbook
+## document:
+## 	see also: https://docs.brew.sh/Formula-Cookbook
 require "formula"
 class dotfiles < Formula
 
